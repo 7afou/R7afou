@@ -4,7 +4,7 @@ Automating tasks and diving deep into Python's potential.
 
 ## About Me 👀
 
-Trying to master automation, especially with Python.
+A student who hate being alive.
 
 ## What's on My Plate 🌱
 
